@@ -106,8 +106,7 @@ public class ModifBDD {
         session.beginTransaction();
         List<Utilisateur> result = session.createQuery("from Utilisateur").list();
         List<String> noms = new ArrayList<>();
-        for (Utilisateur u:result
-        ) {
+        for (Utilisateur u:result) {
             noms.add(u.getPseudo());
         }
         session.close();
@@ -120,8 +119,7 @@ public class ModifBDD {
         session.beginTransaction();
         List<Produit> result = session.createQuery("from Produit").list();
         List<String> noms = new ArrayList<>();
-        for (Produit p:result
-        ) {
+        for (Produit p:result) {
             noms.add(p.getReference());
         }
         session.close();

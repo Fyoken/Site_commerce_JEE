@@ -10,6 +10,7 @@ import java.util.List;
 
 public class AjoutBDD {
     public static void ajoutBDD() {
+
         ModifBDD.addProduit(new Produit("huawei", 223.99, Categorie.TELEPHONE.toString()));
         ModifBDD.addProduit(new Produit("iphone", 2129, Categorie.TELEPHONE.toString()));
         ModifBDD.addProduit(new Produit("pocophone", 399.99, Categorie.TELEPHONE.toString()));
