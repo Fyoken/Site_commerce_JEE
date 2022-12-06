@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <!-- local connection properties -->
+    <property name="hibernate.connection.url">jdbc:mysql://localhost/WebsiteProject</property> <!--URL de ma BDD -->
+    <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property> <!--Driver à utiliser -->
+    <property name="hibernate.connection.username">mathias</property>
+    <property name="hibernate.connection.password">ineslabest</property>
+    <property name="hbm2ddl.auto">create</property> <!-- update ou create -->
+    <!-- dialect for MySQL -->
+    <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property> <!--Mode de discussion entre Hibernate et la BDD -->
+    <property name="hibernate.show_sql">true</property> <!--Hibernate affiche ou non toutes les requetesSQL passées à la BDD -->
+    <mapping class="com.example.websiteproject.entities.Utilisateur"/>
+    <mapping class="com.example.websiteproject.entities.Produit"/>
+    <mapping class="com.example.websiteproject.entities.Panier"/>
+  </session-factory>
+</hibernate-configuration>
