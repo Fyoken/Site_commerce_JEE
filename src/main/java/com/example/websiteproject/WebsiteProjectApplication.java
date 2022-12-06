@@ -26,7 +26,7 @@ public class WebsiteProjectApplication {
     public static String toStringProd(List<Produit> lp) {
         String res = "Produits : [";
         for (int i=0; i < lp.size()-1;i++) {
-            res += lp.get(0).getReference()+" ; ";
+            res += lp.get(i).getReference()+" ; ";
         }
         res += lp.get(lp.size()-1).getReference();
         return res+"]";
@@ -38,7 +38,7 @@ public class WebsiteProjectApplication {
         }
         String res = "Utilisateur : [";
         for (int i=0; i < lu.size()-1;i++) {
-            res += lu.get(0).getPseudo()+" ; ";
+            res += lu.get(i).getPseudo()+" ; ";
         }
         res += lu.get(lu.size()-1).getPseudo();
         return res+"]";

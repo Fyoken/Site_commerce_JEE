@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- les liens des css-->
+		<link th:th:href="@{misenpage1.css}" rel="stylesheet" />
+		<!-- les metas classiques-->
+		<meta name="author" content="Maël THIRE" />
+		<meta name="keywords" content="vente multimedia" />
+		<!-- Le titre de la page -->
+		<title>OFFLINE</title>
+	</head>
+	<body>
+		<div id="entete">
+			<img th:src="@{banniere.png}" width="100%" >
+		
+			<nav>
+				<ul class="menu">
+					<li>
+						<a th:href="@{accueil}">Accueil</a>
+					</li>
+					<li>
+						<a>Ventes</a>
+							<ul class="sousmenu">
+								<li> 
+									<a th:href="@{console}">Consoles</a>
+									<a th:href="@{accessoireC}">Accessoires Console</a>
+									<a th:href="@{jeux}">Jeux</a>
+									<a th:href="@{ordinateur}">Ordinateurs</a>
+									<a th:href="@{accessoireP}">Accessoires Ordinateur</a>
+									<a th:href="@{telephone}">Téléphones</a>
+								</li>
+							</ul>
+					</li>	
+					<li>
+						<a th:href="@{connexion}">Connexion</a>
+							<ul class="sousmenu">
+								<li> 
+									<a th:href="@{inscription}">Inscription</a>
+								</li>
+							</ul>
+					</li>
+				</ul>
+			</nav>
+		</div>
+			<div id="contenu">
+			<br> <br><br> <br><table align="center" width="75%" border="0" margin="20px" padding="20px" margin-left="20px" backgroound-color="#e8e5df">
+    			<thead>
+        		<tr>
+            			<th colspan="5"></th>
+        		</tr>
+   			 </thead>
+    		
+        		<tr>
+        		
+        	<tr><td align="center"> Photo </td><td align="center"> Prix </td><td align="center"> Commande </td></tr>
+            <tr><td width="30%"><br><br> <img th:src="@{huawey.png}" /></a></td>
+            <td width="5%" align="center"> 223,99€</td>
+            <td width="20%" align="center" >
+            <button> Ajouter </button>
+</div>
+</tr>
+            <tr><td><br><br><img th:src="@{iphone.png}" /></a></td>
+            <td align="center"> 2129€</td>
+            <td width="20%" align="center" > 
+            <button> Ajouter </button>
+</div>
+</tr>
+           <tr><td width="30%"><br><br><img th:src="@{pocoPhone.png}" /></a></td>
+           <td width="5%" align="center"> 399.99€</td>
+           <td width="20%" align="center">
+           <button> Ajouter </button>
+</div></tr>
+           <tr><td width="30%"><br><br><img th:src="@{samsung.png}" /></a></td>
+           <td width="5%" align="center"> 459.90€</td>
+           <td width="20%" align="center">
+           <button> Ajouter </button>
+	</div></tr>
+        </tr>
+    </tbody>
+</table>
+<br>
+
+	
+		</div>
+		<div id="footer">
+			<p> Tous droits réservés à <b>OFFLINE </b></p>
+			<p> 7 rue Saint John Perse, BP45 64000 Pau </p>
+			<p> <u>email:</u> offline@gmail.com </p>
+			<p> <u>Téléphone :</u> 0612345678 </p>
+		</div>
+	</body>
+</html>	
+
+
