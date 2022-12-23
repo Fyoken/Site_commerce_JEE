@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="649c5346-69e6-4052-83a0-d07e35633f72" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/WebsiteProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/WebsiteProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/WebsiteProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Produit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Produit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Utilisateur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Utilisateur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/utils/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/utils/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/websiteproject/WebsiteProjectApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/websiteproject/WebsiteProjectApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mathias Barbosa &lt;mathias.barbosa@eisti.fr&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2IXliNCcL3R1ayz9p5FHMgQ71a4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../projet-jee2" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="649c5346-69e6-4052-83a0-d07e35633f72" name="Default Changelist" comment="" />
+      <created>1670335934944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670335934944</updated>
+      <workItem from="1670335936670" duration="5000" />
+      <workItem from="1670335955887" duration="528000" />
+      <workItem from="1670346745032" duration="213000" />
+      <workItem from="1670346999617" duration="16000" />
+    </task>
+    <task id="LOCAL-00001" summary="liaison dao et web">
+      <created>1670346825516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670346825516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="liaison dao et web" />
+    <option name="LAST_COMMIT_MESSAGE" value="liaison dao et web" />
+  </component>
+</project>
