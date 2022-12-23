@@ -1,12 +1,12 @@
 package com.example.websiteproject.entities;
 
-import com.example.websiteproject.repositories.ModifBDD;
-
 import javax.persistence.*;
+import java.io.Serializable;
+import java.util.List;
 
 @Entity
 @Table(name="Produit")
-public class Produit {
+public class Produit implements Serializable {
     @Column(name="reference")
     String reference;
 
@@ -16,15 +16,22 @@ public class Produit {
     int id;
 
     @Column(name="categorie")
-    String categorie;
+    Categorie categorie;
+
+    @Column(name = "nomCategorie")
+    String name;
 
     @Column(name="prix")
     double prix;
 
-    public Produit(String reference, double p, String C) {
+    @ManyToMany(mappedBy = "produits")
+    private List<Panier> paniers;
+
+    public Produit(String reference, double p, Categorie C) {
         this.reference = reference;
         this.prix = p;
         this.categorie = C;
+        this.name = C.name();
     }
 
     public Produit() {
@@ -50,4 +57,5 @@ public class Produit {
     public void setPrix(double prix) {
         this.prix = prix;
     }
+
 }

@@ -9,22 +9,32 @@ public class Utilisateur {
     String pseudo;
 
     @Id
-    @Column(name="id")
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-
     int id;
 
-    @OneToOne(fetch = FetchType.LAZY, targetEntity = Panier.class,cascade = CascadeType.ALL)
-    @JoinColumn(name = "Panier_id", referencedColumnName = "id")
-    private Panier panier;
+    @OneToOne(mappedBy = "u", cascade = {CascadeType.ALL})
+    @MapsId
+    Panier panier;
 
     @Column(name = "fullname")
     String fullname;
 
-    public Utilisateur(String p, Panier panier, String full) {
+    @Column(name = "password")
+    String mdp;
+
+    public Utilisateur(String p, String mdp, Panier panier, String full) {
         this.pseudo = p;
         this.panier = panier;
         this.fullname = full;
+        this.mdp = mdp;
+    }
+
+    public Utilisateur(String p,int id, String mdp, Panier panier, String full) {
+        this.pseudo = p;
+        this.panier = panier;
+        this.fullname = full;
+        this.id = id;
+        this.mdp = mdp;
     }
 
     public Utilisateur() {
@@ -39,11 +49,12 @@ public class Utilisateur {
         this.pseudo = pseudo;
     }
 
-
+    public Panier getPanier () {return panier;}
+    public void setPanier(Panier p) {this.panier = p;}
     public int getId() {
         return id;
     }
-
+    public void setId(int id) {this.id=id;}
     public Utilisateur(String pseudo) {
         this.pseudo = pseudo;
     }
@@ -59,5 +70,4 @@ public class Utilisateur {
     public void setFullname(String fullname) {
         this.fullname = fullname;
     }
-
 }

@@ -3,7 +3,9 @@ package com.example.websiteproject.utils;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class HibernateUtil {
+import java.io.Serializable;
+
+public class HibernateUtil implements Serializable {
     private static SessionFactory sessionFactory;
 
     public static SessionFactory getSessionFactory()
