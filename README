@@ -1,0 +1,18 @@
+- Pour lancer le projet, il suffit de l'ouvrir dans eclipse ou intelliJ et de run.
+- Les produits par défaut sont automatiquement ajoutés à la base de données (il faut penser à la créer et mettre à jour vos identifiants de connexion dans application.properties)
+
+Fonctionnalités :
+Un utilisateur spécial admin (mot de passe : admin) créé à l'initialisation, a accès à une page cachée permettant de :
+- Ajouter un produit.
+- Supprimer un produit.
+- Mettre à jour le prix d'un produit.
+
+- Il est possible de s'inscrire.
+- Il est possible de se connecter.
+- Dès lors qu'un utilisateur est connecté, il a accès à son panier.
+- Quand un produit est ajouté au panier avec le bouton ajouter, il est visible sur le site panier avec la liste complète des produits du panier
+- Le coût total est également calculé.
+- Il est possible de vider le panier (il faut actualiser la page dans ce cas : voir *).
+- Un utilisateur peut supprimer son compte (si l'admin supprime son compte : plus personne n'aura accès à la page admin même si un admin est recréé : en effet seul l'id 1 a les droits).
+
+* : La page panier n'a aucun style css et requiert une actualisation quand elle est vidée car elle est recréée en java à chaque changement car le mapping n'a pas de cache.

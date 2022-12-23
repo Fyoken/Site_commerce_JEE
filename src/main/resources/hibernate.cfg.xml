@@ -16,5 +16,7 @@
     <mapping class="com.example.websiteproject.entities.Utilisateur"/>
     <mapping class="com.example.websiteproject.entities.Produit"/>
     <mapping class="com.example.websiteproject.entities.Panier"/>
+    <mapping class="com.example.websiteproject.entities.PanierProduit"/>
+
   </session-factory>
 </hibernate-configuration>
