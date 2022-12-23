@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/resources/templates/accesoireP.html" value="file://$PROJECT_DIR$/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/src/main/resources/templates/console.html" value="file://$PROJECT_DIR$/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/src/main/resources/templates/console.jsp" value="file://$PROJECT_DIR$/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/src/main/resources/templates/html/accessoireC.html" value="file://$PROJECT_DIR$/src/main/resources/templates/html" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/accessoireC.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/accueil.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/console.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/supprimer.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+      </map>
+    </option>
+  </component>
+</project>
