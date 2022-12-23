@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1552da9-cee7-4e6a-bb6b-18e357e83593" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_jasper_9_0_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_9_0_68.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_ecj_3_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/repositories/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_Release2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webContexts.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEB-INF/ibm-web-ext-pme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/WEB-INF/ibm-web-ext-pme.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebsiteProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WebsiteProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/misenpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/misenpage1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/accesoireP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/accessoireC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/console.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/jeux.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/ordinateur.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/telephone.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Console/DS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Console/PS5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Console/Switch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Console/XBOX.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/accessoireC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/accessoireP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/banniere.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/jeux.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/ordinateur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/Logo/telephone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireC/DS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireC/PS5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireC/switch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireC/xbox.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireP/casque.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireP/clavier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireP/souris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/accessoireP/tapis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/jeux/cod.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/jeux/gow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/jeux/mario.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/jeux/pokemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ordinateur/alienware.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ordinateur/hp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ordinateur/lenovo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ordinateur/rog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/telephone/huawey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/telephone/iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/telephone/pocoPhone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/telephone/samsung.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/WebsiteProjectApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/WebsiteProjectApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/controller/WebsiteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/controller/WebsiteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/entities/Panier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/entities/Panier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/entities/Produit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/entities/Produit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/entities/Utilisateur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/entities/Utilisateur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/repositories/AjoutBDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/repositories/AjoutBDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/repositories/ModifBDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/repositories/ModifBDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/websiteproject/utils/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/Bdd.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/WebsiteProject/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.example/WebsiteProject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/WebsiteProjectApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/WebsiteProjectApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/controller/WebsiteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/controller/WebsiteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Panier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Panier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Produit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Produit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Utilisateur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/entities/Utilisateur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/repositories/AjoutBDD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/repositories/AjoutBDD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/repositories/ModifBDD.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/repositories/ModifBDD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/websiteproject/utils/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/websiteproject/utils/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/Bdd.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/websiteproject/WebsiteProjectApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/websiteproject/WebsiteProjectApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="EndpointsView">
+    <option name="showSidePanel" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mathias Barbosa &lt;mathias.barbosa@eisti.fr&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectId" id="2HZs8wmOdlTn4WSFU4zxo17vRTi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/META-INF" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="inlay.hints.JAVA" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.websiteproject.entities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/static" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.websiteproject" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.websiteproject.services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebsiteProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="WebsiteProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.websiteproject.WebsiteProjectApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1552da9-cee7-4e6a-bb6b-18e357e83593" name="Default Changelist" comment="" />
+      <created>1668503787106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668503787106</updated>
+      <workItem from="1668503788857" duration="7847000" />
+      <workItem from="1669022656313" duration="1686000" />
+      <workItem from="1669109593277" duration="943000" />
+      <workItem from="1669710717932" duration="4544000" />
+      <workItem from="1669715278419" duration="467000" />
+      <workItem from="1669715761281" duration="3565000" />
+      <workItem from="1669728978482" duration="227000" />
+      <workItem from="1670098449548" duration="6908000" />
+      <workItem from="1670226122802" duration="1209000" />
+      <workItem from="1670227357639" duration="67000" />
+      <workItem from="1670228218955" duration="170000" />
+      <workItem from="1670228814945" duration="320000" />
+      <workItem from="1670230762352" duration="2107000" />
+      <workItem from="1670232887926" duration="72000" />
+      <workItem from="1670232975273" duration="177000" />
+      <workItem from="1670233168713" duration="7614000" />
+      <workItem from="1670247210307" duration="3826000" />
+      <workItem from="1670252250259" duration="4249000" />
+      <workItem from="1670321832155" duration="3228000" />
+      <workItem from="1670325079844" duration="143000" />
+      <workItem from="1670325238207" duration="113000" />
+      <workItem from="1670325365459" duration="1043000" />
+      <workItem from="1670329112853" duration="1571000" />
+      <workItem from="1670330698758" duration="119000" />
+      <workItem from="1670330831310" duration="381000" />
+      <workItem from="1670331226917" duration="970000" />
+      <workItem from="1670332363657" duration="2564000" />
+      <workItem from="1670335492574" duration="210000" />
+      <workItem from="1670335720191" duration="7861000" />
+      <workItem from="1670343619579" duration="1140000" />
+      <workItem from="1670344949002" duration="933000" />
+      <workItem from="1670347019373" duration="431000" />
+      <workItem from="1670360568282" duration="940000" />
+      <workItem from="1670361530604" duration="9436000" />
+      <workItem from="1670403244608" duration="4389000" />
+      <workItem from="1670407653191" duration="1494000" />
+      <workItem from="1671467066755" duration="12881000" />
+      <workItem from="1671530439456" duration="26751000" />
+      <workItem from="1671566417343" duration="4989000" />
+      <workItem from="1671630808050" duration="1006000" />
+      <workItem from="1671631829219" duration="10599000" />
+      <workItem from="1671650613470" duration="2044000" />
+      <workItem from="1671652673219" duration="1973000" />
+      <workItem from="1671654932404" duration="3012000" />
+      <workItem from="1671657964439" duration="2729000" />
+      <workItem from="1671716100027" duration="13455000" />
+      <workItem from="1671735483441" duration="9383000" />
+      <workItem from="1671744889862" duration="5088000" />
+      <workItem from="1671794124966" duration="3253000" />
+      <workItem from="1671798320199" duration="306000" />
+    </task>
+    <task id="LOCAL-00001" summary="liaison dao et web">
+      <created>1670346436097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670346436097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="liaison dao et web" />
+    <option name="LAST_COMMIT_MESSAGE" value="liaison dao et web" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.AnnotationException" package="org.hibernate" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
