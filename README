@@ -1,3 +1,6 @@
+Ce projet a pour objectif de mettre en place un site web de e-commerce à l'aide de JEE et des framework SpringBoot et Hibernate.
+
+
 - Pour lancer le projet, il suffit de l'ouvrir dans eclipse ou intelliJ et de run.
 - Les produits par défaut sont automatiquement ajoutés à la base de données (il faut penser à la créer et mettre à jour vos identifiants de connexion dans application.properties)
 
